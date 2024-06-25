@@ -1,0 +1,24 @@
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\bin\Debug\net8.0\LoggerService.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\LoggerService.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\bin\Debug\net8.0\LoggerService.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\LoggerService.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll

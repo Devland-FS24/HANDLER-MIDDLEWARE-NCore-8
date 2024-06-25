@@ -1,0 +1,74 @@
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\appsettings.Development.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\appsettings.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.exe
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.deps.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.runtimeconfig.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.pdb
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.AssemblyInfo.cs
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.MvcApplicationPartsAssemblyInfo.cs
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\staticwebassets.build.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\staticwebassets.development.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.CustomExLogNC8.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomExLogNC8.props
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomExLogNC8.props
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomExLogNC8.props
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\scopedcss\bundle\CustomExLogNC8.styles.css
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomEx.E3F50E0F.Up2Date
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\refint\CustomExLogNC8.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.pdb
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.genruntimeconfig.cache
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\obj\Debug\net8.0\ref\CustomExLogNC8.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\nlog.config
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\NLog.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\LoggerService.dll
+F:\Ready to use\GITMS\pre_release\EXC HANDLER MIDDLEWARE\CustomExLogNC8\bin\Debug\net8.0\LoggerService.pdb
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\nlog.config
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\appsettings.Development.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\appsettings.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.exe
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.deps.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.runtimeconfig.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\CustomExLogNC8.pdb
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\NLog.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\LoggerService.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\bin\Debug\net8.0\LoggerService.pdb
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.AssemblyInfo.cs
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.MvcApplicationPartsAssemblyInfo.cs
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\staticwebassets.build.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\staticwebassets.development.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.CustomExLogNC8.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.build.CustomExLogNC8.props
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CustomExLogNC8.props
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CustomExLogNC8.props
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\scopedcss\bundle\CustomExLogNC8.styles.css
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomEx.E3F50E0F.Up2Date
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\refint\CustomExLogNC8.dll
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.pdb
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\CustomExLogNC8.genruntimeconfig.cache
+F:\Ready to use\GITMS\HANDLER MIDDLEWARE NCore 8\CustomExLogNC8\obj\Debug\net8.0\ref\CustomExLogNC8.dll

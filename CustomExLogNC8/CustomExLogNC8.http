@@ -1,0 +1,6 @@
+@CustomExLogNC8_HostAddress = http://localhost:5155
+
+GET {{CustomExLogNC8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
